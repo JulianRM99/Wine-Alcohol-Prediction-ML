@@ -14,6 +14,8 @@ https://youtu.be/RAway-zgRfw
 **Pre-Requisite to run the Term Project locally with a older Python Version and PyCaret recent version:**
 
 [README - Term Project PreReq's.md](https://github.com/user-attachments/files/23741594/README.-.Term.Project.PreReq.s.md)
+
+---
 # Wine Alcohol Content Prediction
 
 ## Environment Setup
