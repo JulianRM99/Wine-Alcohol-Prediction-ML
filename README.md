@@ -3,10 +3,10 @@
 Abstract: 
 This project focuses on the application of machine learning regression techniques to predict the alcohol content (% vol) of red wines using the UCI Wine Quality dataset. Unlike standard approaches that predict subjective wine quality, this study inverts the problem to estimate a specific chemical attribute, alcohol concentration, based on other physicochemical properties (such as acidity, density, and pH) and the quality (sensory) score. Leveraging the PyCaret AutoML framework, the study compared over 20 regression models, including linear, tree-based, and ensemble algorithms. The experimental results demonstrated that Support Vector Machine (SVM) regression yielded the best performance, achieving a Test R2 of 0.7684 and a Root Mean Squared Error (RMSE) of 0.5025%. Feature importance analysis revealed that ‘quality’ and ‘density’ were the most significant predictors, suggesting a strong correlation between these attributes and alcohol levels. 
 
----
-Youtube Video Link:
+------
+Youtube Video Link of Term Project Code:
 https://youtu.be/RAway-zgRfw
----
+-------
 
 
 **Pre-Requisite to run the Term Project locally with a older Python Version and PyCaret recent version:**
